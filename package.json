@@ -6,7 +6,10 @@
   "scripts": {
     "app": "node app.js",
     "sum": "node operations/sum.js",
-    "sub": "node operations/basic/sub.js"
+    "sub": "node operations/basic/sub.js",
+    "variables": "node intro/variables.js",
+    "operators:compa": "node intro/03_operators_compa.js",
+    "operators:logic": "node intro/04_operators_logics.js"
   },
   "keywords": [],
   "author": "nicolas",
