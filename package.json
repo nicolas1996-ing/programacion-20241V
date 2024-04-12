@@ -10,7 +10,9 @@
     "variables": "node intro/variables.js",
     "operators:compa": "node intro/03_operators_compa.js",
     "operators:logic": "node intro/04_operators_logics.js",
-    "arrays": "node intro/05_arrays.js"
+    "arrays": "node intro/05_arrays.js",
+    "objects": "node intro/06_objects.js",
+    "while": "node intro/07_while.js"
   },
   "keywords": [],
   "author": "nicolas",
