@@ -9,7 +9,8 @@
     "sub": "node operations/basic/sub.js",
     "variables": "node intro/variables.js",
     "operators:compa": "node intro/03_operators_compa.js",
-    "operators:logic": "node intro/04_operators_logics.js"
+    "operators:logic": "node intro/04_operators_logics.js",
+    "arrays": "node intro/05_arrays.js"
   },
   "keywords": [],
   "author": "nicolas",
